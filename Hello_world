@@ -1,5 +1,0 @@
-let hello: string = 'Hello, World!';
-console.log(hello);
-
-let message: string = 'This is my first code in TypeScript';
-console.log(message);
